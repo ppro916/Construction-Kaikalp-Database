@@ -126,14 +126,14 @@
             "rows": [],
             "columns": [
               {
-                "id": "quantity",
-                "label": "Quantity",
-                "type": "number"
-              },
-              {
                 "id": "description",
                 "label": "Description",
                 "type": "text"
+              },
+              {
+                "id": "quantity",
+                "label": "Quantity",
+                "type": "number"
               },
               {
                 "id": "date",
