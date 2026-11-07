@@ -131,14 +131,14 @@
                 "type": "text"
               },
               {
-                "id": "date",
-                "label": "Date",
-                "type": "date"
-              },
-              {
                 "id": "quantity",
                 "label": "Quantity",
                 "type": "number"
+              },
+              {
+                "id": "date",
+                "label": "Date",
+                "type": "date"
               },
               {
                 "id": "addedBy",
