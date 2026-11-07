@@ -151,15 +151,15 @@
                 "type": "number"
               },
               {
-                "id": "amount",
-                "label": "Amount",
-                "type": "number"
-              },
-              {
                 "id": "col_mw6sllyhi7wxvb",
                 "label": "Qty",
                 "type": "text",
                 "custom": true
+              },
+              {
+                "id": "amount",
+                "label": "Amount",
+                "type": "number"
               }
             ],
             "schemaVersion": 3
