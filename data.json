@@ -123,7 +123,46 @@
           {
             "id": "mw6sl96kzgzv40",
             "name": "ha",
-            "rows": []
+            "rows": [],
+            "columns": [
+              {
+                "id": "description",
+                "label": "Description",
+                "type": "text"
+              },
+              {
+                "id": "date",
+                "label": "Date",
+                "type": "date"
+              },
+              {
+                "id": "quantity",
+                "label": "Quantity",
+                "type": "number"
+              },
+              {
+                "id": "addedBy",
+                "label": "Added By",
+                "type": "readonly"
+              },
+              {
+                "id": "rate",
+                "label": "Rate",
+                "type": "number"
+              },
+              {
+                "id": "amount",
+                "label": "Amount",
+                "type": "number"
+              },
+              {
+                "id": "col_mw6sllyhi7wxvb",
+                "label": "Qty",
+                "type": "text",
+                "custom": true
+              }
+            ],
+            "schemaVersion": 3
           }
         ]
       }
