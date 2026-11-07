@@ -70,7 +70,51 @@
               {
                 "id": "mw6d77krmxizmc",
                 "name": "hhe",
-                "rows": []
+                "rows": [
+                  {
+                    "id": "mw6d7nspjtdp06",
+                    "editedBy": "",
+                    "description": "",
+                    "date": "2026-11-07",
+                    "quantity": 0,
+                    "addedBy": "Jack",
+                    "rate": 0,
+                    "amount": 0
+                  }
+                ],
+                "columns": [
+                  {
+                    "id": "description",
+                    "label": "Description",
+                    "type": "text"
+                  },
+                  {
+                    "id": "date",
+                    "label": "Date",
+                    "type": "date"
+                  },
+                  {
+                    "id": "quantity",
+                    "label": "Quantity",
+                    "type": "number"
+                  },
+                  {
+                    "id": "addedBy",
+                    "label": "Added By",
+                    "type": "readonly"
+                  },
+                  {
+                    "id": "rate",
+                    "label": "Rate",
+                    "type": "number"
+                  },
+                  {
+                    "id": "amount",
+                    "label": "Amount",
+                    "type": "number"
+                  }
+                ],
+                "schemaVersion": 3
               }
             ]
           }
