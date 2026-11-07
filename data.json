@@ -11,7 +11,13 @@
           {
             "id": "mw6cxydx7rg27z",
             "name": "hi",
-            "sheets": []
+            "sheets": [
+              {
+                "id": "mw6cy554ohhusc",
+                "name": "1",
+                "rows": []
+              }
+            ]
           }
         ],
         "sheets": []
