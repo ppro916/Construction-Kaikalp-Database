@@ -15,7 +15,40 @@
               {
                 "id": "mw6cy554ohhusc",
                 "name": "1",
-                "rows": []
+                "rows": [],
+                "columns": [
+                  {
+                    "id": "description",
+                    "label": "Description",
+                    "type": "text"
+                  },
+                  {
+                    "id": "date",
+                    "label": "Date",
+                    "type": "date"
+                  },
+                  {
+                    "id": "quantity",
+                    "label": "Quantity",
+                    "type": "number"
+                  },
+                  {
+                    "id": "addedBy",
+                    "label": "Added By",
+                    "type": "readonly"
+                  },
+                  {
+                    "id": "rate",
+                    "label": "Rate",
+                    "type": "number"
+                  },
+                  {
+                    "id": "amount",
+                    "label": "Amount",
+                    "type": "number"
+                  }
+                ],
+                "schemaVersion": 3
               }
             ]
           }
