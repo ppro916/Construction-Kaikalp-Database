@@ -155,11 +155,6 @@
                 "label": "Qty",
                 "type": "text",
                 "custom": true
-              },
-              {
-                "id": "amount",
-                "label": "Amount",
-                "type": "number"
               }
             ],
             "schemaVersion": 3
