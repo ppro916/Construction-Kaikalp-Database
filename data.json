@@ -17,7 +17,18 @@
           {
             "id": "mw6t3xqjqzn2rd",
             "name": "hh",
-            "rows": [],
+            "rows": [
+              {
+                "id": "mw80rrivph83si",
+                "editedBy": "",
+                "description": "",
+                "date": "2026-11-08",
+                "quantity": 0,
+                "addedBy": "Jack",
+                "rate": 0,
+                "amount": 0
+              }
+            ],
             "columns": [
               {
                 "id": "description",
