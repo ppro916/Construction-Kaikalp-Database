@@ -42,7 +42,7 @@
               },
               {
                 "id": "quantity",
-                "label": "Quantity",
+                "label": "F",
                 "type": "number"
               },
               {
