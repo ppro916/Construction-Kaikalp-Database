@@ -42,7 +42,7 @@
               },
               {
                 "id": "quantity",
-                "label": "F",
+                "label": "Sq Ft",
                 "type": "number"
               },
               {
