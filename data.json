@@ -26,7 +26,8 @@
                 "quantity": 50,
                 "addedBy": "Jack",
                 "rate": 85,
-                "amount": 4250
+                "amount": 4250,
+                "col_mw80tjgwhrpb5t": ""
               }
             ],
             "columns": [
@@ -59,6 +60,12 @@
                 "id": "amount",
                 "label": "Amount",
                 "type": "number"
+              },
+              {
+                "id": "col_mw80tjgwhrpb5t",
+                "label": "Remark",
+                "type": "text",
+                "custom": true
               }
             ],
             "schemaVersion": 3
