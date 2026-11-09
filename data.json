@@ -5,46 +5,6 @@
     "address": "Mumbai",
     "sections": [
       {
-        "id": "1794211897475y4hrz",
-        "name": "Owner",
-        "subsections": [],
-        "sheets": [
-          {
-            "id": "mw8zguzhzkj1w3",
-            "name": "1",
-            "rows": [],
-            "columns": [
-              {
-                "id": "description",
-                "label": "Description",
-                "type": "text"
-              },
-              {
-                "id": "date",
-                "label": "Date",
-                "type": "date"
-              },
-              {
-                "id": "quantity",
-                "label": "Quantity",
-                "type": "number"
-              },
-              {
-                "id": "rate",
-                "label": "Rate",
-                "type": "number"
-              },
-              {
-                "id": "amount",
-                "label": "Amount",
-                "type": "number"
-              }
-            ],
-            "schemaVersion": 3
-          }
-        ]
-      },
-      {
         "id": "179421230320046e4a",
         "name": "Working Status",
         "subsections": [],
