@@ -32,7 +32,13 @@
           {
             "id": "mw95dnpc3j8iy1",
             "name": "Brick",
-            "sheets": []
+            "sheets": [
+              {
+                "id": "mw95e81becwijr",
+                "name": "Xyz",
+                "rows": []
+              }
+            ]
           },
           {
             "id": "mw95dnpc4ru3dq",
