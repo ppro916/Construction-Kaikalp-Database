@@ -85,7 +85,13 @@
         "id": "1794230949748y4muz",
         "name": "Tiles Supplier",
         "subsections": [],
-        "sheets": []
+        "sheets": [
+          {
+            "id": "mw9ask6nyqc83p",
+            "name": "Ee",
+            "rows": []
+          }
+        ]
       }
     ]
   },
