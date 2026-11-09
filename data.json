@@ -89,7 +89,52 @@
           {
             "id": "mw9ask6nyqc83p",
             "name": "Ee",
-            "rows": []
+            "rows": [
+              {
+                "id": "mw9astzzraht2s",
+                "editedBy": "",
+                "description": "",
+                "quantity": 0,
+                "rate": 0,
+                "date": "2026-11-09",
+                "amount": 0,
+                "remark": ""
+              }
+            ],
+            "columns": [
+              {
+                "id": "description",
+                "label": "Description",
+                "type": "text"
+              },
+              {
+                "id": "quantity",
+                "label": "Sq.Ft",
+                "type": "number"
+              },
+              {
+                "id": "rate",
+                "label": "Rate",
+                "type": "number"
+              },
+              {
+                "id": "date",
+                "label": "Date",
+                "type": "date"
+              },
+              {
+                "id": "amount",
+                "label": "Amount",
+                "type": "number"
+              },
+              {
+                "id": "remark",
+                "label": "Remark",
+                "type": "text"
+              }
+            ],
+            "typedDefaults": true,
+            "schemaVersion": 4
           }
         ]
       }
