@@ -96,7 +96,16 @@
           {
             "id": "mw97noic8ege3i",
             "name": "Kaialakal",
-            "rows": [],
+            "rows": [
+              {
+                "id": "mw9app80u8q91k",
+                "editedBy": "User",
+                "description": "Gj",
+                "date": "2026-11-09",
+                "amount": 0,
+                "remark": ""
+              }
+            ],
             "columns": [
               {
                 "id": "description",
