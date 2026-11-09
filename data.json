@@ -3,39 +3,6 @@
     "id": "mw8yel45tseeot",
     "name": "Jack",
     "address": "Akot",
-    "sections": [
-      {
-        "id": "1794210199866ufsxi",
-        "name": "Material Supplier",
-        "subsections": [
-          {
-            "id": "mw8yfeii0fyj75",
-            "name": "Cement Supplier",
-            "sheets": []
-          },
-          {
-            "id": "mw8yfeii10w2tb",
-            "name": "Kanan Sand",
-            "sheets": []
-          },
-          {
-            "id": "mw8yfeii2ykun8",
-            "name": "Aggregate",
-            "sheets": []
-          },
-          {
-            "id": "mw8yfeii364kmb",
-            "name": "Brick",
-            "sheets": []
-          },
-          {
-            "id": "mw8yfeii4e124v",
-            "name": "Crusher Sand",
-            "sheets": []
-          }
-        ],
-        "sheets": []
-      }
-    ]
+    "sections": []
   }
 ]
