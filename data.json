@@ -109,22 +109,20 @@
                 "type": "date"
               },
               {
-                "id": "quantity",
-                "label": "Advance",
-                "type": "number"
-              },
-              {
-                "id": "rate",
-                "label": "Rate",
-                "type": "number"
-              },
-              {
                 "id": "amount",
                 "label": "Amount",
                 "type": "number"
+              },
+              {
+                "id": "remark",
+                "label": "Remark",
+                "type": "text"
               }
             ],
-            "schemaVersion": 3
+            "schemaVersion": 4,
+            "typedDefaults": true,
+            "partyName": "हैक्स",
+            "supplierName": "शहद"
           },
           {
             "id": "mw9a402cu3fweg",
