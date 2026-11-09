@@ -96,7 +96,35 @@
           {
             "id": "mw97noic8ege3i",
             "name": "Kaialakal",
-            "rows": []
+            "rows": [],
+            "columns": [
+              {
+                "id": "description",
+                "label": "Description",
+                "type": "text"
+              },
+              {
+                "id": "date",
+                "label": "Date",
+                "type": "date"
+              },
+              {
+                "id": "quantity",
+                "label": "Advance",
+                "type": "number"
+              },
+              {
+                "id": "rate",
+                "label": "Rate",
+                "type": "number"
+              },
+              {
+                "id": "amount",
+                "label": "Amount",
+                "type": "number"
+              }
+            ],
+            "schemaVersion": 3
           }
         ]
       }
